@@ -14,12 +14,12 @@ Sparkify company would like to determine which of its customers is going to eith
 
 ## Package requirements 
 The minimum requirements to run this project are the standard data science libraries that are in the Anaconda distribution of Python.  
-In particular:
-NumPy
-Pandas
-Matplotlib
+In particular:  
+NumPy  
+Pandas  
+Matplotlib  
 
-Additionnally, one needs to install PySpark
+Additionnally, one needs to install PySpark.  
 This can be done with running the command on your terminal or console: `pip install pyspark`.
 
 ## Content of the Repository 
