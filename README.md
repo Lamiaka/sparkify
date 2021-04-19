@@ -1,9 +1,9 @@
 # Sparkify
 
 1. [Introduction](https://github.com/Lamiaka/sparkify#Introduction)
-2. [Package requirements](https://github.com/Lamiaka/sparkify#Package requirements)
-3. [Content of the repository](https://github.com/Lamiaka/sparkify#Contents of the repository)
-3. [Results and discussion](https://github.com/Lamiaka/sparkify#Results and discussion)
+2. [Package requirements](https://github.com/Lamiaka/sparkify#Package-requirements)
+3. [Content of the repository](https://github.com/Lamiaka/sparkify#Contents-of-the-repository)
+3. [Results and discussion](https://github.com/Lamiaka/sparkify#Results-and-discussion)
 3. [Acknowledgments](https://github.com/Lamiaka/sparkify#Acknowledgements)
 3. [Ressources](https://github.com/Lamiaka/sparkify#Ressources)
 
