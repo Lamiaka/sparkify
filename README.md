@@ -35,7 +35,7 @@ In [this database](https://github.com/Lamiaka/sparkify/blob/master/state_db.db) 
 [This python file](https://github.com/Lamiaka/sparkify/blob/master/US_States_sql_table_creation.py) generates the database. 
 
 ## Results and discussion
-Results on this project are detailed in this medium post.
+Results on this project are detailed in [this medium post](https://lamiak.medium.com/predicting-churn-for-sparkify-381dfac1a21f).
 
 ## Acknowledgements 
 Acknowledgements to the Udacity platform for providing the students with interesting use cases. Acknowledgemenst to the students on the platform and the mentors for answering questions. 
