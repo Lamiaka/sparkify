@@ -38,11 +38,10 @@ In [this database](https://github.com/Lamiaka/sparkify/blob/master/state_db.db) 
 Results on this project are detailed in this medium post.
 
 ## Acknowledgements 
-Enormous acknowledgements to the Udacity platform for providing the students with interesting use cases. Acknowledgemenst to the students on the platform and the mentors for answering questions. 
+Acknowledgements to the Udacity platform for providing the students with interesting use cases. Acknowledgemenst to the students on the platform and the mentors for answering questions. 
 Big acknowledgemenst to the data science community for writing open source documentation and democratizing the knowledge. 
 
 ## Ressources 
 [Spark documentation webpage](https://spark.apache.org/docs/latest/api/python/index.html)
-Stackoverflow.  
-Various posts on Towards Data Science platform.   
+
 
