@@ -43,6 +43,10 @@ Big acknowledgemenst to the data science community for writing open source docum
 
 ## Ressources 
 [Spark documentation webpage](https://spark.apache.org/docs/latest/api/python/index.html)  
+[The origins of logistic regression](https://papers.tinbergen.nl/02119.pdf)  
+[Random decision Forest](https://web.archive.org/web/20160417030218/http://ect.bell-labs.com/who/tkh/publications/papers/odt.pdf)  
+[Support Vector Networks](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)  
+[Idiot's Bayes, not so stupid after all](https://www.jstor.org/stable/1403452?origin=crossref&seq=1)  
 [An example of using Logistic Regression using pyspark](https://medium.com/swlh/logistic-regression-with-pyspark-60295d41221)  
 [Dealing with small datasets](https://hackernoon.com/7-effective-ways-to-deal-with-a-small-dataset-2gyl407s)  
 [Augmenting datasets with synthetic data](https://towardsdatascience.com/augmenting-categorical-datasets-with-synthetic-data-for-machine-learning-a25095d6d7c8)  
