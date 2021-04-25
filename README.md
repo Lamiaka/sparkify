@@ -42,6 +42,9 @@ Acknowledgements to the Udacity platform for providing the students with interes
 Big acknowledgemenst to the data science community for writing open source documentation and democratizing the knowledge. 
 
 ## Ressources 
-[Spark documentation webpage](https://spark.apache.org/docs/latest/api/python/index.html)
-
+[Spark documentation webpage](https://spark.apache.org/docs/latest/api/python/index.html)  
+[An example of using Logistic Regression using pyspark](https://medium.com/swlh/logistic-regression-with-pyspark-60295d41221)  
+[Dealing with small datasets](https://hackernoon.com/7-effective-ways-to-deal-with-a-small-dataset-2gyl407s)  
+[Augmenting datasets with synthetic data](https://towardsdatascience.com/augmenting-categorical-datasets-with-synthetic-data-for-machine-learning-a25095d6d7c8)
+[Comparison of classifiers given little training data](http://www.ifp.illinois.edu/~iracohen/publications/precision-ecml04-ColorTR-final.pdf?ref=hackernoon.com)  
 
